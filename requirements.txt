@@ -1,0 +1,8 @@
+pip install re
+pip install nltk
+!nltk.download("punkt")
+pip install numpy
+pip install sklearn
+pip instal scipy
+pip install streamlit
+pip install PIL

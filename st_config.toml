@@ -1,0 +1,10 @@
+[theme]
+primaryColor="#49D625"
+backgroundColor="#09092BF"
+secondaryBackgroundColor="#4A3E2B"
+textColor="#49D625"
+font="sans serif"
+
+# from PIL import Image
+image = Image.open("/home/vboxuser/Documents/text_summarization/SOCCENT.png")
+st.sidebar.image(image)
