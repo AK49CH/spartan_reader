@@ -1,2 +1,2 @@
-# spartan_reader
+# spartan reader
 This tool is a Streamlit app that uses natural language processing to create summaries of text documents. The app takes a user input text and splits it into sentences. It selects the top sentences based on their salience scores and returns them as a summary. The app also allows the user to adjust the number of sentences and topics for the summary using sliders. Additionally, the app can be used in a docker container to isolate it from the outside internet. 
