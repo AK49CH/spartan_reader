@@ -6,5 +6,5 @@ textColor="#49D625"
 font="sans serif"
 
 # from PIL import Image
-image = Image.open("/home/vboxuser/Documents/text_summarization/SOCCENT.png")
+image = Image.open("../../SOCCENT.png")
 st.sidebar.image(image)
